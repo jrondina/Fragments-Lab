@@ -36,4 +36,12 @@
         <item>Set up speaker system</item>
 
     </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about">Current City: New York\nJob: Android Immersive Instructor\nEmployer General Assembly
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="contact">Phone: (555) 555-5555\nEmail: drew@generalassemb.ly\nTwitter: @drewm</string>
+
 </resources>
